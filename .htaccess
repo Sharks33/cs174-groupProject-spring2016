@@ -1,0 +1,5 @@
+Options +ExecCGI -Indexes
+DirectoryIndex gp.html gp.php
+DefaultLanguage en-US
+AddDefaultCharset UTF-8
+ServerSignature Off
