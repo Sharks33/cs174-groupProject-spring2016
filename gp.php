@@ -9,7 +9,7 @@
 
     <body>
         <?php
-            $name = filter_input(INPUT_GET, firstname);
+            $name = filter_input(INPUT_GET, 'firstname');
             print "<h1>Hello, $name!</h1>";
         ?>
     </body>
