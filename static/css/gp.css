@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6{
+    color: #007889;
+}
+
+p{
+    color: white;
+}
+
+legend{
+    color: white;
+}
+
+body{
+    background-color: black;
+    background-image: url("carbonFiber.jpeg");
+}
+
+#gitHub{
+    color: red;
+}
